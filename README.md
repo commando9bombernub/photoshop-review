@@ -1,4 +1,3 @@
-# photoshop-review
 # Adobe Photoshop - Professional Image Editing
 
 **🎨 Key Advantages of Photoshop:**  
