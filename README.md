@@ -10,4 +10,6 @@
 - **OS**: Windows 10 (64-bit) or macOS 10.15+
 - **RAM**: 8GB minimum (16GB recommended)
 - **GPU**: 2GB VRAM  
-- **Storage**: 4GB available space  
+- **Storage**: 4GB available space
+- ## ⚡ Getting Started
+- [![Download]
