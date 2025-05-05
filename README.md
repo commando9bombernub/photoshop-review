@@ -16,3 +16,12 @@
 
 🎨 Start Creating Today!
 Unlock your creative potential with Photoshop - the industry standard for digital imaging. Whether you're retouching photos, designing graphics, or exploring AI art, Photoshop gives you the tools to bring your vision to life.
+- **Language:**
+> English
+- **Available languages:**
+> English,Chinese,Spanish,French,Italian,Japanese,Korean,Dutch,Portuguese,Russian
+- **License:**
+> Pro version
+- **Latest update:**
+>  25 Mar, 2025
+
