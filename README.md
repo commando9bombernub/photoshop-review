@@ -12,4 +12,4 @@
 - **GPU**: 2GB VRAM  
 - **Storage**: 4GB available space
 - ## ⚡ Getting Started
-- [![Download](https://img.shields.io/badge/Download_Official_Trial-Photoshop_2024-blue?style=for-the-badge&logo=adobe)
+  ![Download](https://img.shields.io/badge/Download_Official_Trial-Photoshop_2024-blue?style=for-the-badge&logo=adobe)
